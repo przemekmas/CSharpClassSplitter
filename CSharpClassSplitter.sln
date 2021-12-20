@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpClassSplitter", "CSharpClassSplitter\CSharpClassSplitter.csproj", "{20FB8BA4-CEF7-4910-B2D7-E70966E07A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DummyProject", "DummyProject\DummyProject.csproj", "{6B56D4A7-A6C5-4D0A-A73F-4950BE105AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20FB8BA4-CEF7-4910-B2D7-E70966E07A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FB8BA4-CEF7-4910-B2D7-E70966E07A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FB8BA4-CEF7-4910-B2D7-E70966E07A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FB8BA4-CEF7-4910-B2D7-E70966E07A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B56D4A7-A6C5-4D0A-A73F-4950BE105AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B56D4A7-A6C5-4D0A-A73F-4950BE105AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B56D4A7-A6C5-4D0A-A73F-4950BE105AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B56D4A7-A6C5-4D0A-A73F-4950BE105AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D840A665-5A32-47AD-894F-498DA17C0DD7}
+	EndGlobalSection
+EndGlobal
